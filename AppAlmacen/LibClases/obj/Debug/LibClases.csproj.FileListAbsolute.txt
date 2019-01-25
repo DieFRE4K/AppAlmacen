@@ -1,0 +1,4 @@
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibClases\bin\Debug\LibClases.dll
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibClases\bin\Debug\LibClases.pdb
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibClases\obj\Debug\LibClases.dll
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibClases\obj\Debug\LibClases.pdb

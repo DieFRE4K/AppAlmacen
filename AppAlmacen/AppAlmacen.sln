@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppAlmacen", "AppAlmacen\AppAlmacen.csproj", "{949E28E5-4DF4-40BB-AB74-498AC1699AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibClases", "LibClases\LibClases.csproj", "{03DE5D09-FCB8-47AA-9DA8-4B3AF807EC7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibFormularios", "LibFormularios\LibFormularios.csproj", "{391B9311-362D-4B05-9D82-F9C96848B896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949E28E5-4DF4-40BB-AB74-498AC1699AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949E28E5-4DF4-40BB-AB74-498AC1699AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949E28E5-4DF4-40BB-AB74-498AC1699AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949E28E5-4DF4-40BB-AB74-498AC1699AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03DE5D09-FCB8-47AA-9DA8-4B3AF807EC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DE5D09-FCB8-47AA-9DA8-4B3AF807EC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DE5D09-FCB8-47AA-9DA8-4B3AF807EC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DE5D09-FCB8-47AA-9DA8-4B3AF807EC7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391B9311-362D-4B05-9D82-F9C96848B896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391B9311-362D-4B05-9D82-F9C96848B896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391B9311-362D-4B05-9D82-F9C96848B896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391B9311-362D-4B05-9D82-F9C96848B896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibFormularios\obj\Debug\LibFormularios.csprojResolveAssemblyReference.cache
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibFormularios\obj\Debug\LibFormularios.csproj.GenerateResource.Cache
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibFormularios\obj\Debug\LibFormularios.FrmPadre.resources
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibFormularios\bin\Debug\LibFormularios.dll
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibFormularios\bin\Debug\LibFormularios.pdb
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibFormularios\bin\Debug\LibClases.dll
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibFormularios\bin\Debug\LibClases.pdb
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibFormularios\obj\Debug\LibFormularios.dll
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibFormularios\obj\Debug\LibFormularios.pdb
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\LibFormularios\obj\Debug\LibFormularios.FrmRegistroClientes.resources

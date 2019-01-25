@@ -1,0 +1,12 @@
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\bin\Debug\AppAlmacen.exe.config
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\bin\Debug\AppAlmacen.exe
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\bin\Debug\AppAlmacen.pdb
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\obj\Debug\AppAlmacen.exe
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\obj\Debug\AppAlmacen.pdb
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\bin\Debug\LibFormularios.dll
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\bin\Debug\LibClases.dll
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\bin\Debug\LibFormularios.pdb
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\bin\Debug\LibClases.pdb
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\obj\Debug\AppAlmacen.csprojResolveAssemblyReference.cache
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\obj\Debug\AppAlmacen.FrmPrincipal.resources
+G:\Informática\Labo V\Con Polimorfismo\AppAlmacen\AppAlmacen\obj\Debug\AppAlmacen.csproj.GenerateResource.Cache
